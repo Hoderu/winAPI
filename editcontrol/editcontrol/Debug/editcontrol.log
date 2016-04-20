@@ -1,0 +1,4 @@
+﻿  Notepad.cpp
+\\psf\home\documents\visual studio 2015\projects\editcontrol\editcontrol\notepad.cpp(262): warning C4101: 'newcolor': unreferenced local variable
+\\psf\home\documents\visual studio 2015\projects\editcontrol\editcontrol\notepad.cpp(282): warning C4101: 'newcolor': unreferenced local variable
+  editcontrol.vcxproj -> \\psf\Home\Documents\Visual Studio 2015\Projects\editcontrol\Debug\editcontrol.exe
